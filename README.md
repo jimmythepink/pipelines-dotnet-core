@@ -1,3 +1,5 @@
+[![Build Status](https://jimmythepink.visualstudio.com/First%20pipeline/_apis/build/status/jimmythepink.pipelines-dotnet-core?branchName=master)](https://jimmythepink.visualstudio.com/First%20pipeline/_build/latest?definitionId=1&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
